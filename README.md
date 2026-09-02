@@ -1,19 +1,19 @@
-App Meu Gatinho Fofinho
+# App Meu Gatinho Fofinho
 
 Meu primeiro projeto desenvolvido durante meus estudos de desenvolvimento web com o FreeCodeCamp.
 
 O projeto foi criado para praticar os fundamentos de **HTML e CSS**, utilizando imagens, links, listas, formulários e estilização básica.
 
-Acesse o site
+## Acesse o site
 
 [Ver o site online](https://blondedjs.github.io/html-freeCodeCamp/)
 
-Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - HTML5
 - CSS3
 
-O que pratiquei
+## O que pratiquei
 
 - Estrutura básica do HTML
 - Títulos e parágrafos
@@ -27,10 +27,14 @@ O que pratiquei
 - Git e GitHub
 - GitHub Pages
 
+## Objetivo
+
 Este projeto faz parte da minha jornada de aprendizado em programação e desenvolvimento web.
 
 Estou atualmente estudando **HTML, CSS e JavaScript**, com o objetivo de evoluir para o desenvolvimento de aplicações web.
 
-Victor Cardoso **blondedjs**
+## Autor
+
+**blondedjs** - Victor Cardoso
 
 Este é meu primeiro projeto publicado no GitHub. 
