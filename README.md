@@ -1,6 +1,6 @@
 # App Meu Gatinho Fofinho
 
-Meu primeiro projeto desenvolvido durante meus estudos de desenvolvimento web com o FreeCodeCamp.
+Meu primeiro projeto desenvolvido durante meus estudos de desenvolvimento web com o freeCodeCamp.
 
 O projeto foi criado para praticar os fundamentos de **HTML e CSS**, utilizando imagens, links, listas, formulários e estilização básica.
 
